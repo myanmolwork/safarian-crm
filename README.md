@@ -317,7 +317,7 @@ safarian-crm/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/safarian-crm.git
+git clone https://github.com/myanmolwork/safarian-crm.git
 ```
 
 ```bash
