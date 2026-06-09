@@ -511,9 +511,9 @@ Computer Science Graduate | MERN Stack Developer
 
 GitHub: https://github.com/myanmolwork
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn: [Add Your LinkedIn Profile
 
-Portfolio: Add Your Portfolio Link
+Portfolio: Add Your Portfolio Link](https://www.linkedin.com/in/anmol-nagar/)
 
 ---
 
